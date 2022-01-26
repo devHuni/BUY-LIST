@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+    font-family: 'jua', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ff8f8f;
+    display: block;
+}
+
+.index {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(71, 71, 71);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.list {
+    width: 300;
+    height: 400;
+    float: left;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden; 
+    margin-left: 517px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: lighter;
+} 
+
+.ped {
+    background-color: #fff;
+    text-align: center;
+}
+
+.ped h3 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.ped p {
+    font-size: 20px;
+}
+
+.buttons {
+    margin-bottom: 20px;
+} 
+
+.button {
+    background-color: yellow;
+    border: none;
+    color: black;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px 18px;
+    margin: 4px 2px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.button1 {
+    background-color: yellow; 
+    color: black;
+    border: 2px solid black;
+}
+
+.button1:hover {
+    background-color: #48ff00;
+    color: black;
+}
+
+.button2 {
+    background-color: yellow; 
+    color: black;
+    border: 2px solid black;
+}
+
+.button2:hover {
+    background-color: #48ff00;
+    color: black;
+}
+
+.button3 {
+    background-color: yellow; 
+    color: black;
+    border: 2px solid black;
+}
+
+.button3:hover {
+    background-color: #48ff00;
+    color: black;
+}
+
+.button4 {
+    background-color: yellow; 
+    color: black;
+    border: 2px solid black;
+}
+
+.button4:hover {
+    background-color: #48ff00;
+    color: black;
+}
+
+.button5 {
+    background-color: yellow; 
+    color: black;
+    border: 2px solid black;
+}
+
+.button5:hover {
+    background-color: #48ff00;
+    color: black;
+}
+
+.button6 {
+    background-color: yellow; 
+    color: black;
+    border: 2px solid black;
+}
+
+.button6:hover {
+    background-color: #48ff00;
+    color: black;
+}
+
+.order {
+    margin-top: 15px;
+}
+
+.order a {
+    color: blue;
+    text-decoration: underline;
+}
